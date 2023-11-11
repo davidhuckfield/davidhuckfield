@@ -6,3 +6,4 @@
 - Pronouns: He/Him
 - <img src="https://www.codewars.com/users/davidhuckfield/badges/micro"> Check out my Codewars progress <a href="https://www.codewars.com/users/davidhuckfield">here!</a> 
 
+https://www.linkedin.com/in/davidhuckfield
